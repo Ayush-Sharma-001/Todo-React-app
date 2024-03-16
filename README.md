@@ -16,16 +16,6 @@ This is a Todo application built using React, focusing on mastering the Context 
 - **Delete Todo**: Remove completed or unnecessary tasks effortlessly.
 - **Mark Completed Todo**: Stay organized by marking tasks as completed.
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ayush-Sharma-001/Todo-React-app.git
-
-Sure, here's an example of how you can structure your README file for your GitHub repository:
-
-markdown
-Copy code
 # Todo React App
 
 This is a Todo application built using React, focusing on mastering the Context API functionality and real-life implementation. The project was inspired by the "Chai Aur React" YouTube playlist by Hitesh Choudhary sir.
